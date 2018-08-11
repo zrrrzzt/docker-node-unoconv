@@ -5,7 +5,7 @@
 ###########################################################
 
 # Setting the base to nodejs 4.7.3
-FROM node:4.9.1-slim@sha256:b5ae41b735cad519ae32cd6eeafbc1191c2d8e9056baf421a17f1c666c2a3753
+FROM node:4.9.1-slim@sha256:26e655b2f02a3a030d52529cc09d4036fe17e270c8b4477bfa17db75ee301405
 
 # Maintainer
 MAINTAINER Geir Gåsodden
